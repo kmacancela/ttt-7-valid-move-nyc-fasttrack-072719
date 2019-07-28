@@ -4,7 +4,7 @@ def valid_move?(input)
   if input < 0 || input > 8
     return false
   else 
-    return false
+    return true
   end
 end
 
