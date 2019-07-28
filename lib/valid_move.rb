@@ -1,7 +1,7 @@
 # code your #valid_move? method here
 
 def valid_move?(input)
-  if input < 0 || input > 8
+  if input < 0 || input > 8 
     return false
   else 
     return true
